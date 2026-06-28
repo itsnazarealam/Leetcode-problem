@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
