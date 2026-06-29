@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
