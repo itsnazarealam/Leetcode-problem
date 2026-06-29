@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Combinatorics
 |  |
