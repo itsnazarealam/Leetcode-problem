@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
