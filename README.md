@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
