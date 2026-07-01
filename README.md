@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
