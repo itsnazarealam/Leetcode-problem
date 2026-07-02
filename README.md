@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 ## Memoization
