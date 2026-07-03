@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
@@ -181,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
