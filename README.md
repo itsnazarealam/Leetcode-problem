@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
+| [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -189,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
+| [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
