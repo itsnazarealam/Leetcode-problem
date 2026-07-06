@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
 | ------- |
