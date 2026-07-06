@@ -18,9 +18,6 @@ public:
                     i++;
                 }
             }
-            if(count <= k){
-                maxi = max(maxi, j-i+1);
-            }
             j++;
         }
         return maxi;
