@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
