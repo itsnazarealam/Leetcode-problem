@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int num(char c){
+    int findNum(char c){
         if(c=='I')
             return 1;
         else if(c=='V')
@@ -16,17 +16,19 @@ public:
         else
             return 1000;
     }
-
     int romanToInt(string s) {
-        int sum=0, i=0;
+        int sum=0;
+        int i=0;
         while(i<s.size()-1){
-            if(num(s[i]) < num(s[i+1]))
-                sum -= num(s[i]);
+            if(findNum(s[i]) < findNum(s[i+1]))
+                sum -= findNum(s[i]);
             else
-                sum += num(s[i]);
+                sum += findNum(s[i]);
             i++;
         }
-        sum += num(s[i]);
+
+        sum += findNum(s[i]);
+
         return sum;
     }
 };
