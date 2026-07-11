@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 | [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
+| [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
