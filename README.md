@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Combinatorics
 |  |
