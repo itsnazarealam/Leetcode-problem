@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
