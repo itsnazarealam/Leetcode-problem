@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0141-linked-list-cycle) |
 ## Binary Search Tree
 |  |
