@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0518-coin-change-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0518-coin-change-ii) |
