@@ -2,20 +2,16 @@ class Solution {
 public:
     string removeStars(string s) {
         stack<char> st;
+        string s2 = "";
         for(int i=0; i<s.size(); i++){
             if(s[i]=='*' && i>=0){
-                st.pop();
+                s2.pop_back();
             }
             else{
-                st.push(s[i]);
+                s2 += s[i];
             }
         }
-        string s2 = "";
-        while(!st.empty()){
-            s2 += st.top();
-            st.pop();
-        }
-        reverse(s2.begin(), s2.end());
+        cout<<s2;
         return s2;
     }
 };
