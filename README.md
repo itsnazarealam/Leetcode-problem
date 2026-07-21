@@ -284,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
