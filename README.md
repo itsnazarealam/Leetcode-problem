@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
