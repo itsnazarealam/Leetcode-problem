@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0619-biggest-single-number) |
+| [1075-project-employees-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1280-students-and-examinations) |
