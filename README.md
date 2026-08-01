@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1934-confirmation-rate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1934-confirmation-rate) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
