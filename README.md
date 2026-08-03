@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -330,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
