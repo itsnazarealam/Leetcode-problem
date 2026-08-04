@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
 | ------- |
