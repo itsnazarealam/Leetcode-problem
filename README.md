@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 | [3128-right-triangles](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3128-right-triangles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
