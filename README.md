@@ -81,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
