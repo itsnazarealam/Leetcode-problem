@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
