@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
