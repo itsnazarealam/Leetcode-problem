@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0539-minimum-time-difference) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
