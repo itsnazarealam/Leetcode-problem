@@ -84,24 +84,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
