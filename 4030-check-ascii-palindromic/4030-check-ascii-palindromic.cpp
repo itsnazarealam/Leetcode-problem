@@ -16,7 +16,6 @@ public:
         string output = "";
         for(int i=0; i<s.size(); i++){
             output += intToBin(s[i]-0);
-
         }
         int l=0, r=output.size()-1;
         while(l<=r){
