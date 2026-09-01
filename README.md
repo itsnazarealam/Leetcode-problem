@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -398,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
