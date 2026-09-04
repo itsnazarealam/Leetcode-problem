@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
