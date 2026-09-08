@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0703-kth-largest-element-in-a-stream) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
