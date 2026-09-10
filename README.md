@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0596-classes-with-at-least-5-students) |
