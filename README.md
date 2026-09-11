@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
