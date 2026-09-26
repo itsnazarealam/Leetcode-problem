@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0260-single-number-iii) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
