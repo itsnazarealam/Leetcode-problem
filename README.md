@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Database
