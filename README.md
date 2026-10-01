@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0680-valid-palindrome-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Database
 |  |
 | ------- |
