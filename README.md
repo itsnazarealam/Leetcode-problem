@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
@@ -498,5 +500,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
