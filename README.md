@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3921-score-validator](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3921-score-validator) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3921-score-validator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3921-score-validator](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3921-score-validator) |
 ## Database
 |  |
 | ------- |
