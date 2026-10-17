@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3128-right-triangles) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
