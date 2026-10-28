@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3921-score-validator) |
 ## Monotonic Stack
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
