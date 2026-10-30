@@ -5,17 +5,17 @@ public:
         vector<int> ansRow;
         ansRow.push_back(1);
         for(int col=1; col<row; col++){
-            ans = ans* (row - col);
-            ans = ans/ (col);
+            ans = ans* (row-col);
+            ans = ans/col;
             ansRow.push_back(ans);
         }
         return ansRow;
     }
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ans;
+        vector<vector<int>> res;
         for(int i=1; i<=numRows; i++){
-            ans.push_back(generateRow(i));
+            res.push_back(generateRow(i));
         }
-        return ans;
+        return res;
     }
 };
