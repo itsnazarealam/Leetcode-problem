@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0922-sort-array-by-parity-ii) |
 | [0980-unique-paths-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1306-jump-game-iii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0922-sort-array-by-parity-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search Tree
 |  |
