@@ -9,7 +9,7 @@ public:
                 mul *= nums[j];
                 if(mul < k)
                     count++;
-                if(mul >= k)
+                else
                     break;
             }
         }
