@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 | [3128-right-triangles](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3128-right-triangles) |
