@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1922-count-good-numbers) |
 | [3128-right-triangles](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3128-right-triangles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/itsnazarealam/Leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/itsnazarealam/Leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3360-stone-removal-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/itsnazarealam/Leetcode-problem/tree/master/3921-score-validator) |
 ## Database
